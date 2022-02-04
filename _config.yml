@@ -27,6 +27,8 @@ repository               : "mclacore/mclacore.github.io"
 teaser                   : "/assets/images/azureogre-logo.png"
 logo                     : "/assets/images/azureogre-logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+header:
+  image: "/assets/images/Bannertest.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
