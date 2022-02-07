@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-IT is not for the faint of heart. It takes a special person to make a career out of IT. That's where my story begins. My career path started in the IT industry, not becaues of passion or calling, but because of opportunities available. I've always had an affinity to computers, and to technology in general. The aspects of IT come easy to me (except certificates.. I **loathe** certificates). After 6 years in IT, I felt that I hit a plataeu, both with my role in IT (helpdesk) and opportunities availalbe. So I did what no one does: I changed careers, and took a job making minimum wage...  
+IT is not for the faint of heart. It takes a special person to make a career out of IT. That's where my story begins. My career path started in the IT industry, not becaues of passion or calling, but because of opportunities available. I've always had an affinity to computers, and to technology in general. The aspects of IT come easy to me (except certificates.. I **loathe** certificates). After 6 years in IT, I felt that I hit a plataeu, both with my role in IT (helpdesk) and opportunities available. So I did what no one does: I changed careers, and took a job making minimum wage...  
   
 Yep, that's right, I changed careers. I attended Emergency Medical Technician (EMT) school to pursue the career path of becoming a firefighter. It's a simple 5 step process (varies by region):  
   
