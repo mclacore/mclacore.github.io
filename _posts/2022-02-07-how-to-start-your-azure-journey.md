@@ -7,6 +7,9 @@ tags:
   - certification
   - learn
 ---
+<p align="center">
+  <img src="/assets/images/10-reasons-why-choose-azure-for-your-enterprise.png" />
+</p>
 
 *“Failure is the opportunity to begin again more intelligently.”*  
 – **Henry Ford**  
